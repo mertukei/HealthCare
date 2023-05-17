@@ -1,0 +1,188 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.healthcareproject"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml
+10
+11    <permission
+11-->[androidx.core:core:1.9.0] /home/emobilis/.gradle/caches/transforms-3/ec4f76f6c0c02de8ba18086e7bd9baf5/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+12        android:name="com.example.healthcareproject.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+12-->[androidx.core:core:1.9.0] /home/emobilis/.gradle/caches/transforms-3/ec4f76f6c0c02de8ba18086e7bd9baf5/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+13        android:protectionLevel="signature" />
+13-->[androidx.core:core:1.9.0] /home/emobilis/.gradle/caches/transforms-3/ec4f76f6c0c02de8ba18086e7bd9baf5/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+14
+15    <uses-permission android:name="com.example.healthcareproject.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+15-->[androidx.core:core:1.9.0] /home/emobilis/.gradle/caches/transforms-3/ec4f76f6c0c02de8ba18086e7bd9baf5/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+15-->[androidx.core:core:1.9.0] /home/emobilis/.gradle/caches/transforms-3/ec4f76f6c0c02de8ba18086e7bd9baf5/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+16
+17    <application
+17-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:5:5-74:19
+18        android:allowBackup="true"
+18-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:6:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.9.0] /home/emobilis/.gradle/caches/transforms-3/ec4f76f6c0c02de8ba18086e7bd9baf5/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+20        android:dataExtractionRules="@xml/data_extraction_rules"
+20-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:7:9-65
+21        android:debuggable="true"
+22        android:extractNativeLibs="false"
+23        android:fullBackupContent="@xml/backup_rules"
+23-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:8:9-54
+24        android:icon="@mipmap/ic_launcher"
+24-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:9:9-43
+25        android:label="@string/app_name"
+25-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:10:9-41
+26        android:supportsRtl="true"
+26-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:11:9-35
+27        android:testOnly="true"
+28        android:theme="@style/Theme.HealthCareProject" >
+28-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:12:9-55
+29        <activity
+29-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:14:9-16:40
+30            android:name="com.example.healthcareproject.HealthArticlesDetailsActivity"
+30-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:15:13-58
+31            android:exported="false" />
+31-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:16:13-37
+32        <activity
+32-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:17:9-19:40
+33            android:name="com.example.healthcareproject.HealthArticlesActivity"
+33-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:18:13-51
+34            android:exported="false" />
+34-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:19:13-37
+35        <activity
+35-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:20:9-22:40
+36            android:name="com.example.healthcareproject.BuyMedicineBookActivity"
+36-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:21:13-52
+37            android:exported="false" />
+37-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:22:13-37
+38        <activity
+38-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:23:9-25:40
+39            android:name="com.example.healthcareproject.CartBuyMedicineActivity"
+39-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:24:13-52
+40            android:exported="false" />
+40-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:25:13-37
+41        <activity
+41-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:26:9-28:40
+42            android:name="com.example.healthcareproject.BuyMedicineDetailsActivity"
+42-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:27:13-55
+43            android:exported="false" />
+43-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:28:13-37
+44        <activity
+44-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:29:9-31:40
+45            android:name="com.example.healthcareproject.BuyMedicineActivity"
+45-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:30:13-48
+46            android:exported="false" />
+46-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:31:13-37
+47        <activity
+47-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:32:9-34:40
+48            android:name="com.example.healthcareproject.OrderDetailsActivity"
+48-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:33:13-49
+49            android:exported="false" />
+49-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:34:13-37
+50        <activity
+50-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:35:9-37:40
+51            android:name="com.example.healthcareproject.LabTestBookActivity"
+51-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:36:13-48
+52            android:exported="false" />
+52-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:37:13-37
+53        <activity
+53-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:38:9-40:40
+54            android:name="com.example.healthcareproject.CartLabActivity"
+54-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:39:13-44
+55            android:exported="false" />
+55-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:40:13-37
+56        <activity
+56-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:41:9-43:40
+57            android:name="com.example.healthcareproject.LabTestDetailsActivity"
+57-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:42:13-51
+58            android:exported="false" />
+58-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:43:13-37
+59        <activity
+59-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:44:9-46:40
+60            android:name="com.example.healthcareproject.LabTestActivity"
+60-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:45:13-44
+61            android:exported="false" />
+61-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:46:13-37
+62        <activity
+62-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:47:9-49:40
+63            android:name="com.example.healthcareproject.LabTestctivity"
+63-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:48:13-43
+64            android:exported="false" />
+64-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:49:13-37
+65        <activity
+65-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:50:9-52:40
+66            android:name="com.example.healthcareproject.BookAppointmentActivity"
+66-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:51:13-52
+67            android:exported="false" />
+67-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:52:13-37
+68        <activity
+68-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:53:9-55:40
+69            android:name="com.example.healthcareproject.DoctordetailsActivity"
+69-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:54:13-50
+70            android:exported="false" />
+70-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:55:13-37
+71        <activity
+71-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:56:9-58:40
+72            android:name="com.example.healthcareproject.FinddoctorActivity"
+72-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:57:13-47
+73            android:exported="false" />
+73-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:58:13-37
+74        <activity
+74-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:59:9-61:40
+75            android:name="com.example.healthcareproject.HomeActivity"
+75-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:60:13-41
+76            android:exported="false" />
+76-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:61:13-37
+77        <activity
+77-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:62:9-64:40
+78            android:name="com.example.healthcareproject.RegisterActivity"
+78-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:63:13-45
+79            android:exported="false" />
+79-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:64:13-37
+80        <activity
+80-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:65:9-73:20
+81            android:name="com.example.healthcareproject.LoginActivity"
+81-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:66:13-42
+82            android:exported="true" >
+82-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:67:13-36
+83            <intent-filter>
+83-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:68:13-72:29
+84                <action android:name="android.intent.action.MAIN" />
+84-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:69:17-69
+84-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:69:25-66
+85
+86                <category android:name="android.intent.category.LAUNCHER" />
+86-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:71:17-77
+86-->/home/emobilis/Documents/MANU/HealthCareProject/app/src/main/AndroidManifest.xml:71:27-74
+87            </intent-filter>
+88        </activity>
+89
+90        <provider
+90-->[androidx.emoji2:emoji2:1.2.0] /home/emobilis/.gradle/caches/transforms-3/791b39fe68826e8543c46f2d7f8b152e/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+91            android:name="androidx.startup.InitializationProvider"
+91-->[androidx.emoji2:emoji2:1.2.0] /home/emobilis/.gradle/caches/transforms-3/791b39fe68826e8543c46f2d7f8b152e/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+92            android:authorities="com.example.healthcareproject.androidx-startup"
+92-->[androidx.emoji2:emoji2:1.2.0] /home/emobilis/.gradle/caches/transforms-3/791b39fe68826e8543c46f2d7f8b152e/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+93            android:exported="false" >
+93-->[androidx.emoji2:emoji2:1.2.0] /home/emobilis/.gradle/caches/transforms-3/791b39fe68826e8543c46f2d7f8b152e/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+94            <meta-data
+94-->[androidx.emoji2:emoji2:1.2.0] /home/emobilis/.gradle/caches/transforms-3/791b39fe68826e8543c46f2d7f8b152e/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+95                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+95-->[androidx.emoji2:emoji2:1.2.0] /home/emobilis/.gradle/caches/transforms-3/791b39fe68826e8543c46f2d7f8b152e/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+96                android:value="androidx.startup" />
+96-->[androidx.emoji2:emoji2:1.2.0] /home/emobilis/.gradle/caches/transforms-3/791b39fe68826e8543c46f2d7f8b152e/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+97            <meta-data
+97-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/emobilis/.gradle/caches/transforms-3/86041ab2b0d2128b301212662b855cec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+98                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+98-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/emobilis/.gradle/caches/transforms-3/86041ab2b0d2128b301212662b855cec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+99                android:value="androidx.startup" />
+99-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/emobilis/.gradle/caches/transforms-3/86041ab2b0d2128b301212662b855cec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+100        </provider>
+101    </application>
+102
+103</manifest>

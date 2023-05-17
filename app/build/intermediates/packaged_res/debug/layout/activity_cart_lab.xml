@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".CartLabActivity">
+
+    <ListView
+        android:id="@+id/listviewlcart"
+        android:layout_width="351dp"
+        android:layout_height="326dp"
+        android:layout_marginTop="126dp"
+        android:layout_marginBottom="279dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/txtBMtitle"
+        android:layout_width="221dp"
+        android:layout_height="38dp"
+        android:layout_marginStart="93dp"
+        android:layout_marginTop="29dp"
+        android:layout_marginEnd="97dp"
+        android:layout_marginBottom="664dp"
+        android:text="Deliver Location:Pune"
+        android:textAlignment="center"
+        android:textColor="#fff"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/txtlcarttitle"
+        android:layout_width="220dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="96dp"
+        android:layout_marginTop="81dp"
+        android:layout_marginEnd="95dp"
+        android:layout_marginBottom="620dp"
+        android:text="Lab Test Cart Items"
+        android:textAlignment="center"
+        android:textColor="#fff"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/txtlcarttotalprice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="106dp"
+        android:layout_marginTop="489dp"
+        android:layout_marginEnd="150dp"
+        android:layout_marginBottom="215dp"
+        android:text="Total Cost:$2000"
+        android:textAlignment="center"
+        android:textColor="#fff"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="103dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="565dp"
+        android:layout_marginEnd="292dp"
+        android:layout_marginBottom="136dp"
+        android:text="select date"
+        android:textColor="#FFEB3B"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="117dp"
+        android:layout_height="25dp"
+        android:layout_marginStart="261dp"
+        android:layout_marginTop="565dp"
+        android:layout_marginEnd="33dp"
+        android:layout_marginBottom="141dp"
+        android:text="select time"
+        android:textColor="#FFEB3B"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnlcartdatepicker"
+        style="?android:spinnerStyle"
+        android:layout_width="145dp"
+        android:layout_height="46dp"
+        android:layout_marginTop="614dp"
+        android:layout_marginEnd="266dp"
+        android:layout_marginBottom="71dp"
+        android:text="10/05/2023"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_editor_absoluteX="57dp" />
+
+    <Button
+        android:id="@+id/btnlcarttimepicker"
+        style="?android:spinnerStyle"
+        android:layout_width="120dp"
+        android:layout_height="46dp"
+        android:layout_marginStart="258dp"
+        android:layout_marginTop="614dp"
+        android:layout_marginEnd="33dp"
+        android:layout_marginBottom="71dp"
+        android:text="10:00"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_editor_absoluteX="57dp" />
+
+    <Button
+        android:id="@+id/btnlcartcheckout"
+        android:layout_width="121dp"
+        android:layout_height="47dp"
+        android:layout_marginStart="258dp"
+        android:layout_marginTop="672dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginBottom="12dp"
+        android:background="@drawable/input_bg"
+        android:text="CHECKOUT"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnlcartback"
+        android:layout_width="130dp"
+        android:layout_height="43dp"
+        android:layout_marginTop="672dp"
+        android:layout_marginEnd="281dp"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/input_bg"
+        android:text="Back"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

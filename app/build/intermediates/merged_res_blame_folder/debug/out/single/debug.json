@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/drawable_surgeon.jpeg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/drawable/surgeon.jpeg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/layout_activity_buy_medicine_details.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/layout/activity_buy_medicine_details.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/drawable_background.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/drawable/background.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/drawable_dentist.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/drawable/dentist.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/drawable_calendar.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/drawable/calendar.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/drawable_health2.jpeg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/drawable/health2.jpeg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/drawable_dietician.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/drawable/dietician.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/drawable_family_physicians.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/drawable/family_physicians.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/layout_activity_home.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/layout/activity_home.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/layout_activity_lab_test.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/layout/activity_lab_test.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/drawable_ic_baseline_email_24.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/drawable/ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/layout_activity_health_articles.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/layout/activity_health_articles.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/layout_activity_buy_medicine.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/layout/activity_buy_medicine.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/drawable_btn_bg.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/drawable/btn_bg.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/layout_activity_book_appointment.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/layout/activity_book_appointment.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/drawable_ic_baseline_person_24.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/drawable/ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/drawable_ic_baseline_security_24.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/drawable/ic_baseline_security_24.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/drawable_health1.jpeg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/drawable/health1.jpeg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/drawable_chat.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/drawable/chat.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/layout_activity_doctordetails.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/layout/activity_doctordetails.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/drawable_health3.jpeg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/drawable/health3.jpeg"
+    },
+    {
+        "merged": "com.example.healthcareproject.app-merged_res-29:/layout_activity_book_appointment.xml.flat",
+        "source": "com.example.healthcareproject.app-main-31:/layout/activity_book_appointment.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/layout_multi_lines.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/layout/multi_lines.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/layout_activity_lab_testctivity.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/layout/activity_lab_testctivity.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/layout_activity_order_details.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/layout/activity_order_details.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/drawable_widgets.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/drawable/widgets.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/layout_activity_register.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/layout/activity_register.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/layout_activity_lab_test_details.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/layout/activity_lab_test_details.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/drawable_info.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/drawable/info.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/layout_activity_login.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/drawable_back1.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/drawable/back1.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/drawable_home.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/drawable/home.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/layout_activity_cart_lab.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/layout/activity_cart_lab.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/drawable_health5.jpeg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/drawable/health5.jpeg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/layout_activity_finddoctor.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/layout/activity_finddoctor.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/layout_activity_buy_medicine_book.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/layout/activity_buy_medicine_book.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/layout_activity_cart_buy_medicine.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/layout/activity_cart_buy_medicine.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/drawable_language.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/drawable/language.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/drawable_back2.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/drawable/back2.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/drawable_cardiologists.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/drawable/cardiologists.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/layout_activity_health_articles_details.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/layout/activity_health_articles_details.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/drawable_health4.jpeg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/drawable/health4.jpeg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/drawable_input_bg.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/drawable/input_bg.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-merged_res-29:/layout_activity_lab_test_book.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.healthcareproject.app-main-31:/layout/activity_lab_test_book.xml"
+    }
+]
